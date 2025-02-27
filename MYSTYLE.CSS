@@ -4,8 +4,7 @@
 Body {
     COLOR: whitesmoke;
     background-color: #ADD8E6;
-    margin: 0 20%;
-    font-family: sans-serif;
+   
 }
 h1 {
     color: #96E6B3;
@@ -16,6 +15,16 @@ h1 {
     text-transform: normal;
     border-bottom: 1px solid whitesmoke;
     margin-top: 30px;
+}
+h1, h2 {
+    color: #96E6B3;
+}
+
+P Strong {
+    Color: darkkhaki
+}
+P.INTRO {
+    font-style: Sans-Serif;
 }
 A:link{
     color: lightblue;
